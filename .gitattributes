@@ -1,0 +1,7 @@
+*.xlsx linguist-language=Excel
+*.pbix linguist-language=PowerBI
+*.csv linguist-language=CSV
+
+*.pbix linguist-detectable=true
+*.xlsx linguist-detectable=true
+*.csv linguist-detectable=true
