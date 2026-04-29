@@ -1,5 +1,5 @@
 
-# 🚗 Car Sales Overview — Power BI
+# 🚗 Car Sales Overview — Excel — Power BI
 
 An interactive Power BI dashboard for tracking and analysing car dealership sales performance across regions, companies, body styles, and colors.
 
